@@ -1,5 +1,5 @@
 <header>
-    <h1>Logo</h1>
+    <h1>Logo della pagina</h1>
     <nav>
         <ul>
             <li><a href="/home">Home</a></li>

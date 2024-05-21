@@ -1,3 +1,3 @@
 <footer>
-    <p>&copy; 2021 | My Website</p>
+    <p>&copy; 2024 |  My laravel-comic. Tutti i diritti sono riservati, pena amputazione delle mani  </p>
 </footer>
