@@ -9,6 +9,10 @@
 <body>
     @include('partials.header')
 
+    <nav>
+      
+    </nav>
+
     <div class="content">
         @yield('content')
     </div>
