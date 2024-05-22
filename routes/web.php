@@ -18,6 +18,8 @@ Route::get('/', function () {
 })->name('home');
 
 Route::get('/comics', function () {
+    $
+
     return view('comics');
 })->name('comics');
 
